@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    margin-top: 20%;
+    color: aliceblue;
+}
+
+.point, .span{
+    font-size: 120px;
+}
+
+
+.time{
+    width: 200px;
+    background-color: aqua;
+    position: absolute;
+    top: 27%;
+    left: 43%;
+    border-radius: 10px;
+}
+
+.send{
+    border-radius: 5px;
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    top: 28%;
+    left: 60%;
+}
+
+.button{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-left: 47%;
+}
+
+body{
+    background-image:url(/timer/a.jpg);
+    background-color: black;
+    background-size:1500px;
+    background-repeat: no-repeat;
+}
+
+.body-hell{
+    background-image: url(/timer/1.jpg);
+}
